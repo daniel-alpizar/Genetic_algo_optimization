@@ -4,6 +4,8 @@ Combinatorial optimization of coffee production systems with genetic algorithms
 # Problem
 Coffee is a perennial crop with annual production cycles. Each cycle consists of a series of agricultural activities that can be performed in different ways. The individual tasks and their combination have varied impacts on production and costs, subject to uncertainty from environmental variables like weather and pests. Optimizing the productive system can be defined as the combination of tasks that maximize profitability over a relevant number of periods.
 
+![gen_algo_results](https://github.com/daniel-alpizar/Genetic_algo_optimization/assets/67352643/bd846d05-2097-4c13-aa34-0f5bc1ef93cf)
+
 # Variables
 4 categories  
 24 variables  
@@ -23,5 +25,3 @@ Stochastic component
 * Convergence to optimal scenarios (~600 generations), reaching on average >90% of the theoretical maximum value.
 * Loss of genetic variability (~500 generations). Execution time is sensitive to the number of variables.
 * Low probability of randomly creating viable combinations (1.38e-11). The initial population must meet constraints to ensure convergence.
-
-![gen_algo_results](https://github.com/daniel-alpizar/Genetic_algo_optimization/assets/67352643/bd846d05-2097-4c13-aa34-0f5bc1ef93cf)
