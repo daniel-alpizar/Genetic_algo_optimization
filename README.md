@@ -10,10 +10,10 @@ Coffee is a perennial crop with annual production cycles. Each cycle consists of
 10 consecutive periods
 
 # Relations
-Production & Costs \n
-Crossed limits
-Base productivity adjustment
-Stochastic component
+Production & Costs  
+Crossed limits  
+Base productivity adjustment  
+Stochastic component  
 
 # Complexity
 1.05e+27 possible solutions
