@@ -24,3 +24,4 @@ Stochastic component
 * Loss of genetic variability (~500 generations). Execution time is sensitive to the number of variables.
 * Low probability of randomly creating viable combinations (1.38e-11). The initial population must meet constraints to ensure convergence.
 
+![gen_algo_results](https://github.com/daniel-alpizar/Genetic_algo_optimization/assets/67352643/bd846d05-2097-4c13-aa34-0f5bc1ef93cf)
